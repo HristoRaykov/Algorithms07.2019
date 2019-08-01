@@ -24,13 +24,13 @@ public class CombinationsWithRepetition {
         System.out.println();
     }
 
-    private static void combinationsWithRepetition(int[] arrN, int[] arrK, int idxK, int idxN) {
+    private static void combinationsWithRepetition(int[] arrN, int[] arrK, int idxN, int idxK) {
         if (idxK > arrK.length-1) {
             printList(arrK);
         } else {
             for (int i = idxN; i < arrN.length; i++) {
                 arrK[idxK] = arrN[i];
-                combinationsWithRepetition(arrN, arrK, idxK+1, i);
+                combinationsWithRepetition(arrN, arrK, i,idxK+1);
             }
         }
     }
