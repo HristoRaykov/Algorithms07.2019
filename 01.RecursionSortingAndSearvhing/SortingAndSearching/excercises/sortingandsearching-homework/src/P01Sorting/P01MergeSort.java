@@ -14,10 +14,8 @@ public class P01MergeSort {
                 .map(Integer::parseInt)
                 .collect(Collectors.toList());
 
-        Collections.sort(list);
+        List<Integer> ordList = mergeSort(list);
 
-//        List<Integer> ordList = mergeSort(list);
-//
         String listStr = list.stream()
                 .map(String::valueOf)
                 .collect(Collectors.joining(" "));
