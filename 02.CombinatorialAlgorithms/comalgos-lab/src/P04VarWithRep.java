@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 
-public class P04PVarWithRep {
+public class P04VarWithRep {
 
     static String[] elements;
     static String[] variations;

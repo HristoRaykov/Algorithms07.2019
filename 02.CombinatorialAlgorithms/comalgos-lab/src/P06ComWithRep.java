@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 
-public class P05PComWithoutRep {
+public class P06ComWithRep {
 
     static String[] elements;
     static String[] variations;
@@ -29,7 +29,7 @@ public class P05PComWithoutRep {
 
         for (int i = idxN; i <elements.length; i++) {
             variations[idxK] = elements[i];
-            variate(idxK+1, i+1);
+            variate(idxK+1, i);
         }
     }
 
