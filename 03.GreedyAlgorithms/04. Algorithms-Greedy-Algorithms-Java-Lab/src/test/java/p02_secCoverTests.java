@@ -22,8 +22,8 @@ public class p02_secCoverTests {
         List<int[]> expectedResult = new ArrayList<>();
         expectedResult.add(sets.get(2));
         expectedResult.add(sets.get(1));
-        expectedResult.add(sets.get(3));
         expectedResult.add(sets.get(4));
+        expectedResult.add(sets.get(3));
 
         for (int i = 0; i < selectedSets.size(); i++) {
             Assert.assertEquals(selectedSets.get(i), expectedResult.get(i));
