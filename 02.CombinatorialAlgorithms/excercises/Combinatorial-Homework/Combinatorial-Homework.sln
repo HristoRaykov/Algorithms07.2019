@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_IterPermWithoutRep", "P01_IterPermWithoutRep\P01_IterPermWithoutRep.csproj", "{E67DEFFB-8170-4CCD-A1A4-A420D402EE45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_IterCombWithoutRep", "P02_IterCombWithoutRep\P02_IterCombWithoutRep.csproj", "{1A21A630-0790-4FAF-896F-5F8AD39AA1C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_IterPermWithRep", "P03_IterPermWithRep\P03_IterPermWithRep.csproj", "{7F837C5E-4D56-4442-9D55-DB56C941DDFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E67DEFFB-8170-4CCD-A1A4-A420D402EE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67DEFFB-8170-4CCD-A1A4-A420D402EE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67DEFFB-8170-4CCD-A1A4-A420D402EE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67DEFFB-8170-4CCD-A1A4-A420D402EE45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A21A630-0790-4FAF-896F-5F8AD39AA1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A21A630-0790-4FAF-896F-5F8AD39AA1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A21A630-0790-4FAF-896F-5F8AD39AA1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A21A630-0790-4FAF-896F-5F8AD39AA1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F837C5E-4D56-4442-9D55-DB56C941DDFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F837C5E-4D56-4442-9D55-DB56C941DDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F837C5E-4D56-4442-9D55-DB56C941DDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F837C5E-4D56-4442-9D55-DB56C941DDFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

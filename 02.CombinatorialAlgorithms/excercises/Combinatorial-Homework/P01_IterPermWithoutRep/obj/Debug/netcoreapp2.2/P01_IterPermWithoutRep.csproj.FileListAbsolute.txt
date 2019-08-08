@@ -1,0 +1,11 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P01_IterPermWithoutRep/bin/Debug/netcoreapp2.2/P01_IterPermWithoutRep.deps.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P01_IterPermWithoutRep/bin/Debug/netcoreapp2.2/P01_IterPermWithoutRep.runtimeconfig.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P01_IterPermWithoutRep/bin/Debug/netcoreapp2.2/P01_IterPermWithoutRep.runtimeconfig.dev.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P01_IterPermWithoutRep/bin/Debug/netcoreapp2.2/P01_IterPermWithoutRep.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P01_IterPermWithoutRep/bin/Debug/netcoreapp2.2/P01_IterPermWithoutRep.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P01_IterPermWithoutRep/obj/Debug/netcoreapp2.2/P01_IterPermWithoutRep.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P01_IterPermWithoutRep/obj/Debug/netcoreapp2.2/P01_IterPermWithoutRep.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P01_IterPermWithoutRep/obj/Debug/netcoreapp2.2/P01_IterPermWithoutRep.AssemblyInfoInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P01_IterPermWithoutRep/obj/Debug/netcoreapp2.2/P01_IterPermWithoutRep.AssemblyInfo.cs
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P01_IterPermWithoutRep/obj/Debug/netcoreapp2.2/P01_IterPermWithoutRep.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P01_IterPermWithoutRep/obj/Debug/netcoreapp2.2/P01_IterPermWithoutRep.pdb

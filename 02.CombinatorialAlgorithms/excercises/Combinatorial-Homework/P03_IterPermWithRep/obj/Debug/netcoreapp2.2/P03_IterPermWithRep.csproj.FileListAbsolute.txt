@@ -1,0 +1,11 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P03_IterPermWithRep/bin/Debug/netcoreapp2.2/P03_IterPermWithRep.deps.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P03_IterPermWithRep/bin/Debug/netcoreapp2.2/P03_IterPermWithRep.runtimeconfig.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P03_IterPermWithRep/bin/Debug/netcoreapp2.2/P03_IterPermWithRep.runtimeconfig.dev.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P03_IterPermWithRep/bin/Debug/netcoreapp2.2/P03_IterPermWithRep.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P03_IterPermWithRep/bin/Debug/netcoreapp2.2/P03_IterPermWithRep.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P03_IterPermWithRep/obj/Debug/netcoreapp2.2/P03_IterPermWithRep.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P03_IterPermWithRep/obj/Debug/netcoreapp2.2/P03_IterPermWithRep.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P03_IterPermWithRep/obj/Debug/netcoreapp2.2/P03_IterPermWithRep.AssemblyInfoInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P03_IterPermWithRep/obj/Debug/netcoreapp2.2/P03_IterPermWithRep.AssemblyInfo.cs
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P03_IterPermWithRep/obj/Debug/netcoreapp2.2/P03_IterPermWithRep.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P03_IterPermWithRep/obj/Debug/netcoreapp2.2/P03_IterPermWithRep.pdb
