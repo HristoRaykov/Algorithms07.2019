@@ -1,0 +1,11 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P04_Snakes/bin/Debug/netcoreapp2.2/P04_Snakes.deps.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P04_Snakes/bin/Debug/netcoreapp2.2/P04_Snakes.runtimeconfig.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P04_Snakes/bin/Debug/netcoreapp2.2/P04_Snakes.runtimeconfig.dev.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P04_Snakes/bin/Debug/netcoreapp2.2/P04_Snakes.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P04_Snakes/bin/Debug/netcoreapp2.2/P04_Snakes.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P04_Snakes/obj/Debug/netcoreapp2.2/P04_Snakes.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P04_Snakes/obj/Debug/netcoreapp2.2/P04_Snakes.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P04_Snakes/obj/Debug/netcoreapp2.2/P04_Snakes.AssemblyInfoInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P04_Snakes/obj/Debug/netcoreapp2.2/P04_Snakes.AssemblyInfo.cs
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P04_Snakes/obj/Debug/netcoreapp2.2/P04_Snakes.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P04_Snakes/obj/Debug/netcoreapp2.2/P04_Snakes.pdb
