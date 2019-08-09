@@ -1,0 +1,11 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_Cubes/bin/Debug/netcoreapp2.2/P05_Cubes.deps.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_Cubes/bin/Debug/netcoreapp2.2/P05_Cubes.runtimeconfig.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_Cubes/bin/Debug/netcoreapp2.2/P05_Cubes.runtimeconfig.dev.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_Cubes/bin/Debug/netcoreapp2.2/P05_Cubes.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_Cubes/bin/Debug/netcoreapp2.2/P05_Cubes.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_Cubes/obj/Debug/netcoreapp2.2/P05_Cubes.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_Cubes/obj/Debug/netcoreapp2.2/P05_Cubes.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_Cubes/obj/Debug/netcoreapp2.2/P05_Cubes.AssemblyInfoInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_Cubes/obj/Debug/netcoreapp2.2/P05_Cubes.AssemblyInfo.cs
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_Cubes/obj/Debug/netcoreapp2.2/P05_Cubes.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_Cubes/obj/Debug/netcoreapp2.2/P05_Cubes.pdb

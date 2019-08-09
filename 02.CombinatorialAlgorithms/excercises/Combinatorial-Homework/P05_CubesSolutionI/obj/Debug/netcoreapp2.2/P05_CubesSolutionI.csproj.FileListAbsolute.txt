@@ -1,0 +1,11 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_CubesSolutionI/bin/Debug/netcoreapp2.2/P05_CubesSolutionI.deps.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_CubesSolutionI/bin/Debug/netcoreapp2.2/P05_CubesSolutionI.runtimeconfig.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_CubesSolutionI/bin/Debug/netcoreapp2.2/P05_CubesSolutionI.runtimeconfig.dev.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_CubesSolutionI/bin/Debug/netcoreapp2.2/P05_CubesSolutionI.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_CubesSolutionI/bin/Debug/netcoreapp2.2/P05_CubesSolutionI.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_CubesSolutionI/obj/Debug/netcoreapp2.2/P05_CubesSolutionI.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_CubesSolutionI/obj/Debug/netcoreapp2.2/P05_CubesSolutionI.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_CubesSolutionI/obj/Debug/netcoreapp2.2/P05_CubesSolutionI.AssemblyInfoInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_CubesSolutionI/obj/Debug/netcoreapp2.2/P05_CubesSolutionI.AssemblyInfo.cs
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_CubesSolutionI/obj/Debug/netcoreapp2.2/P05_CubesSolutionI.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/02.CombinatorialAlgorithms/excercises/Combinatorial-Homework/P05_CubesSolutionI/obj/Debug/netcoreapp2.2/P05_CubesSolutionI.pdb
