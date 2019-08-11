@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/greedy-homework/Greedy-Homework/P01FracKnapsack/bin/Debug/P01FracKnapsack.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/greedy-homework/Greedy-Homework/P01FracKnapsack/bin/Debug/P01FracKnapsack.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/greedy-homework/Greedy-Homework/P01FracKnapsack/obj/Debug/P01FracKnapsack.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/greedy-homework/Greedy-Homework/P01FracKnapsack/obj/Debug/P01FracKnapsack.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/greedy-homework/Greedy-Homework/P01FracKnapsack/obj/Debug/P01FracKnapsack.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/greedy-homework/Greedy-Homework/P01FracKnapsack/obj/Debug/P01FracKnapsack.pdb
