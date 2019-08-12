@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/Knights/bin/Debug/Knights.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/Knights/bin/Debug/Knights.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/Knights/obj/Debug/Knights.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/Knights/obj/Debug/Knights.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/Knights/obj/Debug/Knights.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/Knights/obj/Debug/Knights.pdb

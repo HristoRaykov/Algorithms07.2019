@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/P02ProcessorScheduling/bin/Debug/P02ProcessorScheduling.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/P02ProcessorScheduling/bin/Debug/P02ProcessorScheduling.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/P02ProcessorScheduling/obj/Debug/P02ProcessorScheduling.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/P02ProcessorScheduling/obj/Debug/P02ProcessorScheduling.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/P02ProcessorScheduling/obj/Debug/P02ProcessorScheduling.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/P02ProcessorScheduling/obj/Debug/P02ProcessorScheduling.pdb

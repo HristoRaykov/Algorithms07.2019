@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/P05EgyptianFractions/bin/Debug/P05EgyptianFractions.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/P05EgyptianFractions/bin/Debug/P05EgyptianFractions.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/P05EgyptianFractions/obj/Debug/P05EgyptianFractions.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/P05EgyptianFractions/obj/Debug/P05EgyptianFractions.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/P05EgyptianFractions/obj/Debug/P05EgyptianFractions.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/P05EgyptianFractions/obj/Debug/P05EgyptianFractions.pdb

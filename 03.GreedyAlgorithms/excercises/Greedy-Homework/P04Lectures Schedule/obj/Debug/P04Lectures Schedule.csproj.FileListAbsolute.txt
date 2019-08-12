@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/P04Lectures Schedule/bin/Debug/P04Lectures_Schedule.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/P04Lectures Schedule/bin/Debug/P04Lectures_Schedule.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/P04Lectures Schedule/obj/Debug/P04Lectures Schedule.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/P04Lectures Schedule/obj/Debug/P04Lectures Schedule.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/P04Lectures Schedule/obj/Debug/P04Lectures_Schedule.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/03.GreedyAlgorithms/excercises/Greedy-Homework/P04Lectures Schedule/obj/Debug/P04Lectures_Schedule.pdb
