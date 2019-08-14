@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/04.DynamicProgramI-Lab/Dynamic-ProgI-Lab/P01Fibonacci/bin/Debug/P01Fibonacci.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/04.DynamicProgramI-Lab/Dynamic-ProgI-Lab/P01Fibonacci/bin/Debug/P01Fibonacci.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/04.DynamicProgramI-Lab/Dynamic-ProgI-Lab/P01Fibonacci/obj/Debug/P01Fibonacci.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/04.DynamicProgramI-Lab/Dynamic-ProgI-Lab/P01Fibonacci/obj/Debug/P01Fibonacci.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/04.DynamicProgramI-Lab/Dynamic-ProgI-Lab/P01Fibonacci/obj/Debug/P01Fibonacci.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/04.DynamicProgramI-Lab/Dynamic-ProgI-Lab/P01Fibonacci/obj/Debug/P01Fibonacci.pdb
