@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/05.DynamicProgramII-Lab/Dynamic-ProgII-Lab/P02LCS/bin/Debug/P02LCS.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/05.DynamicProgramII-Lab/Dynamic-ProgII-Lab/P02LCS/bin/Debug/P02LCS.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/05.DynamicProgramII-Lab/Dynamic-ProgII-Lab/P02LCS/obj/Debug/P02LCS.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/05.DynamicProgramII-Lab/Dynamic-ProgII-Lab/P02LCS/obj/Debug/P02LCS.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/05.DynamicProgramII-Lab/Dynamic-ProgII-Lab/P02LCS/obj/Debug/P02LCS.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/05.DynamicProgramII-Lab/Dynamic-ProgII-Lab/P02LCS/obj/Debug/P02LCS.pdb

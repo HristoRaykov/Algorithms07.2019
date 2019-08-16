@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/05.DynamicProgramII-Lab/Dynamic-ProgII-Lab/P01Knapsack/bin/Debug/P01Knapsack.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/05.DynamicProgramII-Lab/Dynamic-ProgII-Lab/P01Knapsack/bin/Debug/P01Knapsack.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/05.DynamicProgramII-Lab/Dynamic-ProgII-Lab/P01Knapsack/obj/Debug/P01Knapsack.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/05.DynamicProgramII-Lab/Dynamic-ProgII-Lab/P01Knapsack/obj/Debug/P01Knapsack.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/05.DynamicProgramII-Lab/Dynamic-ProgII-Lab/P01Knapsack/obj/Debug/P01Knapsack.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/05.DynamicProgramII-Lab/Dynamic-ProgII-Lab/P01Knapsack/obj/Debug/P01Knapsack.pdb
