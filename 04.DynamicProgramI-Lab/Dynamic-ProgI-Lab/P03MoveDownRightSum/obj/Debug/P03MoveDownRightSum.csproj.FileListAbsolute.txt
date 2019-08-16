@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/04.DynamicProgramI-Lab/Dynamic-ProgI-Lab/P03MoveDownRightSum/bin/Debug/P03MoveDownRightSum.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/04.DynamicProgramI-Lab/Dynamic-ProgI-Lab/P03MoveDownRightSum/bin/Debug/P03MoveDownRightSum.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/04.DynamicProgramI-Lab/Dynamic-ProgI-Lab/P03MoveDownRightSum/obj/Debug/P03MoveDownRightSum.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/04.DynamicProgramI-Lab/Dynamic-ProgI-Lab/P03MoveDownRightSum/obj/Debug/P03MoveDownRightSum.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/04.DynamicProgramI-Lab/Dynamic-ProgI-Lab/P03MoveDownRightSum/obj/Debug/P03MoveDownRightSum.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/04.DynamicProgramI-Lab/Dynamic-ProgI-Lab/P03MoveDownRightSum/obj/Debug/P03MoveDownRightSum.pdb

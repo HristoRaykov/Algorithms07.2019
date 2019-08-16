@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01Knapsack", "P01Knapsack\P01Knapsack.csproj", "{79A7A9FD-B3C4-4193-8607-CD2F34B0769A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02LCS", "P02LCS\P02LCS.csproj", "{0400624C-7C9C-48CD-A3B3-5FB8B8DAFC4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79A7A9FD-B3C4-4193-8607-CD2F34B0769A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A7A9FD-B3C4-4193-8607-CD2F34B0769A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A7A9FD-B3C4-4193-8607-CD2F34B0769A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A7A9FD-B3C4-4193-8607-CD2F34B0769A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0400624C-7C9C-48CD-A3B3-5FB8B8DAFC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0400624C-7C9C-48CD-A3B3-5FB8B8DAFC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0400624C-7C9C-48CD-A3B3-5FB8B8DAFC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0400624C-7C9C-48CD-A3B3-5FB8B8DAFC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

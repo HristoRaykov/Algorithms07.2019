@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/04.DynamicProgramI-Lab/Dynamic-ProgI-Lab/P04RodCutting/bin/Debug/P04RodCutting.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/04.DynamicProgramI-Lab/Dynamic-ProgI-Lab/P04RodCutting/bin/Debug/P04RodCutting.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/04.DynamicProgramI-Lab/Dynamic-ProgI-Lab/P04RodCutting/obj/Debug/P04RodCutting.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/04.DynamicProgramI-Lab/Dynamic-ProgI-Lab/P04RodCutting/obj/Debug/P04RodCutting.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/04.DynamicProgramI-Lab/Dynamic-ProgI-Lab/P04RodCutting/obj/Debug/P04RodCutting.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/04.DynamicProgramI-Lab/Dynamic-ProgI-Lab/P04RodCutting/obj/Debug/P04RodCutting.pdb
