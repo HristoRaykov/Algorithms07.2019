@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P01BinomialCoefficients/bin/Debug/P01BinomialCoefficients.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P01BinomialCoefficients/bin/Debug/P01BinomialCoefficients.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P01BinomialCoefficients/obj/Debug/P01BinomialCoefficients.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P01BinomialCoefficients/obj/Debug/P01BinomialCoefficients.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P01BinomialCoefficients/obj/Debug/P01BinomialCoefficients.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P01BinomialCoefficients/obj/Debug/P01BinomialCoefficients.pdb

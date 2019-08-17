@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P03DividingPresents/bin/Debug/P03DividingPresents.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P03DividingPresents/bin/Debug/P03DividingPresents.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P03DividingPresents/obj/Debug/P03DividingPresents.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P03DividingPresents/obj/Debug/P03DividingPresents.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P03DividingPresents/obj/Debug/P03DividingPresents.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P03DividingPresents/obj/Debug/P03DividingPresents.pdb

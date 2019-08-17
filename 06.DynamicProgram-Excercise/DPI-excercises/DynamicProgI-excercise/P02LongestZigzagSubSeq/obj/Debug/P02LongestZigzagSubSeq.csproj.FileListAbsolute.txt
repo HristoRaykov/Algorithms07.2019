@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P02LongestZigzagSubSeq/bin/Debug/P02LongestZigzagSubSeq.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P02LongestZigzagSubSeq/bin/Debug/P02LongestZigzagSubSeq.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P02LongestZigzagSubSeq/obj/Debug/P02LongestZigzagSubSeq.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P02LongestZigzagSubSeq/obj/Debug/P02LongestZigzagSubSeq.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P02LongestZigzagSubSeq/obj/Debug/P02LongestZigzagSubSeq.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P02LongestZigzagSubSeq/obj/Debug/P02LongestZigzagSubSeq.pdb
