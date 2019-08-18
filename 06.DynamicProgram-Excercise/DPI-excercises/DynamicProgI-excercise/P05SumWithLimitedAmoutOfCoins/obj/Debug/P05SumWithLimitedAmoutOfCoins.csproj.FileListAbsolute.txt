@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P05SumWithLimitedAmoutOfCoins/bin/Debug/P05SumWithLimitedAmoutOfCoins.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P05SumWithLimitedAmoutOfCoins/bin/Debug/P05SumWithLimitedAmoutOfCoins.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P05SumWithLimitedAmoutOfCoins/obj/Debug/P05SumWithLimitedAmoutOfCoins.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P05SumWithLimitedAmoutOfCoins/obj/Debug/P05SumWithLimitedAmoutOfCoins.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P05SumWithLimitedAmoutOfCoins/obj/Debug/P05SumWithLimitedAmoutOfCoins.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPI-excercises/DynamicProgI-excercise/P05SumWithLimitedAmoutOfCoins/obj/Debug/P05SumWithLimitedAmoutOfCoins.pdb
