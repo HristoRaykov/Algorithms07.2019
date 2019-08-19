@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPII-excercises/DynamicProgII-excercise/P02MinEditDistance/bin/Debug/P02MinEditDistance.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPII-excercises/DynamicProgII-excercise/P02MinEditDistance/bin/Debug/P02MinEditDistance.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPII-excercises/DynamicProgII-excercise/P02MinEditDistance/obj/Debug/P02MinEditDistance.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPII-excercises/DynamicProgII-excercise/P02MinEditDistance/obj/Debug/P02MinEditDistance.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPII-excercises/DynamicProgII-excercise/P02MinEditDistance/obj/Debug/P02MinEditDistance.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/06.DynamicProgram-Excercise/DPII-excercises/DynamicProgII-excercise/P02MinEditDistance/obj/Debug/P02MinEditDistance.pdb
