@@ -128,7 +128,7 @@ namespace P02MinEditDistance
                 else if (totalCost == insert)
                 {
                     col--;
-                    operations.Add($"INSERT({row-1},{s2Char})");
+                    operations.Add($"INSERT({col-1},{s2Char})");//row-1
                     totalCost -= insertCost;
                 }
                 else
