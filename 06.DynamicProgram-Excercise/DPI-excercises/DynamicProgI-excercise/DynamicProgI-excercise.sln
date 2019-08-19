@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03DividingPresentsGreedy",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03DividingPresentsDP", "P03DividingPresentsDP\P03DividingPresentsDP.csproj", "{B140319B-BE95-4B96-AE95-D8AFBEC83ABF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04SumWithUnlimitedAmountOfCoins", "P04SumWithUnlimitedAmountOfCoins\P04SumWithUnlimitedAmountOfCoins.csproj", "{158C3D72-2A55-4812-8713-40FB6CB12ED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05SumWithLimitedAmoutOfCoins", "P05SumWithLimitedAmoutOfCoins\P05SumWithLimitedAmoutOfCoins.csproj", "{EFDF15C2-AAFF-466B-813D-43AD098D198D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{B140319B-BE95-4B96-AE95-D8AFBEC83ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B140319B-BE95-4B96-AE95-D8AFBEC83ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B140319B-BE95-4B96-AE95-D8AFBEC83ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{158C3D72-2A55-4812-8713-40FB6CB12ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158C3D72-2A55-4812-8713-40FB6CB12ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158C3D72-2A55-4812-8713-40FB6CB12ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158C3D72-2A55-4812-8713-40FB6CB12ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFDF15C2-AAFF-466B-813D-43AD098D198D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFDF15C2-AAFF-466B-813D-43AD098D198D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFDF15C2-AAFF-466B-813D-43AD098D198D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFDF15C2-AAFF-466B-813D-43AD098D198D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

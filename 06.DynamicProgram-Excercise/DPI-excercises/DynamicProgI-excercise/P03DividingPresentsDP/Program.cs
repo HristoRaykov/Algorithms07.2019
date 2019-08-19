@@ -18,11 +18,18 @@ namespace P03DividingPresentsDP
             var targetSum = prices.Sum() / 2.0;
 
             var alansSum = GetAlansSum(possibleSums, targetSum);
+            var totalSum = prices.Sum();
+            var bobsSum = totalSum - alansSum;
 
-            Console.WriteLine();
+            var alansPresents = ReconstructAlansPresents(possibleSums, alansSum);
+
+            Console.WriteLine($"Difference: {bobsSum - alansSum}");
+            Console.WriteLine($"Alan:{alansSum} Bob:{bobsSum}");
+            Console.WriteLine($"Alan takes: {string.Join(" ",alansPresents.Select(x=>x.ToString()))}");
+            Console.WriteLine("Bob takes the rest.");
         }
 
-        private static int GetAlansSum(IDictionary<int, List<int>> possibleSums, double targetSum)
+        private static int GetAlansSum(IDictionary<int, int> possibleSums, double targetSum)
         {
             var minDiff = targetSum;
             var minDiffSum = targetSum;
@@ -39,10 +46,10 @@ namespace P03DividingPresentsDP
             return (int) minDiffSum;
         }
 
-        private static IDictionary<int, List<int>> CalcAllPossibleSums(int[] prices)
+        private static IDictionary<int, int> CalcAllPossibleSums(int[] prices)
         {
-            var possibleSums = new Dictionary<int, List<int>>();
-            possibleSums[0] = new List<int>() {0};
+            var possibleSums = new Dictionary<int, int>();
+            possibleSums[0] = 0;
 
 
             for (int i = 0; i < prices.Length; i++)
@@ -51,21 +58,28 @@ namespace P03DividingPresentsDP
                 foreach (var sum in possibleSums.Keys.ToList())
                 {
                     var newSum = sum + currPrice;
-                    if (possibleSums.ContainsKey(newSum))
+                    if (!possibleSums.ContainsKey(newSum))
                     {
-                        var prevNums = possibleSums[newSum];
-                        prevNums.Add(currPrice);
-                        possibleSums[newSum] = prevNums;
-                    }
-                    else
-                    {
-                        possibleSums[newSum] = new List<int>() {currPrice};
+                        possibleSums[newSum] = currPrice;
                     }
                 }
             }
 
-
             return possibleSums;
+        }
+
+
+        private static IList<int> ReconstructAlansPresents(IDictionary<int, int> possibleSums, int targetSum)
+        {
+            var presents = new List<int>();
+            while (targetSum != 0)
+            {
+                var present = possibleSums[targetSum];
+                presents.Add(present);
+                targetSum -= present;
+            }
+
+            return presents;
         }
     }
 }
