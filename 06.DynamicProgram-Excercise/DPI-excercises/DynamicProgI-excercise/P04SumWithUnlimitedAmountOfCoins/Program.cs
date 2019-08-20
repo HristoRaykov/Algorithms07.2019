@@ -6,7 +6,6 @@ namespace P04SumWithUnlimitedAmountOfCoins
 {
     internal class Program
     {
-        static HashSet<string> sumVariations = new HashSet<string>();
 
         public static void Main(string[] args)
         {
