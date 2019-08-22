@@ -41,7 +41,43 @@ public class TopologicalSorter
         }
 
         return topSorted;
+        
+//        DFS solution 
+//        var visited = new HashSet<string>();
+//        var cyclic = new HashSet<string>();
+//        var sorted = new LinkedList<string>();
+//        foreach (var node in graph.Keys)
+//        {
+//            if (!visited.Contains(node))
+//            {
+//                DFS(node, sorted, visited, cyclic);
+//            }
+//        }
+//        return sorted;
     }
+
+    private void DFS(string node, LinkedList<string> sorted, HashSet<string> visited, HashSet<string> cyclic)
+    {
+        if (cyclic.Contains(node))
+        {
+            throw new InvalidOperationException("Cycle detected.");
+        }
+
+        if (!visited.Contains(node))
+        {
+            visited.Add(node);
+            cyclic.Add(node);
+
+            foreach (var child in graph[node])
+            {
+                DFS(child, sorted, visited, cyclic);
+            }
+
+            cyclic.Remove(node);
+            sorted.AddFirst(node);
+        }
+    }
+
 
     private void RecalculateParentsCount(string nodeToRemove)
     {
