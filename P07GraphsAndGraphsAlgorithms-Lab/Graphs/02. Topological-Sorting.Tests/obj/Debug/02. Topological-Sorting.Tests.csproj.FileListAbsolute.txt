@@ -1,0 +1,15 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting.Tests/bin/Debug/_02.Topological_Sorting.Tests.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting.Tests/bin/Debug/_02.Topological_Sorting.Tests.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting.Tests/bin/Debug/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting.Tests/bin/Debug/nunit.framework.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting.Tests/bin/Debug/_02.Topological_Sorting.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting.Tests/bin/Debug/_02.Topological_Sorting.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting.Tests/bin/Debug/_02.Topological_Sorting.exe.config
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting.Tests/bin/Debug/Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting.Tests/bin/Debug/nunit.framework.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting.Tests/bin/Debug/nunit.framework.xml
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting.Tests/obj/Debug/02. Topological-Sorting.Tests.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting.Tests/obj/Debug/02. Topological-Sorting.Tests.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting.Tests/obj/Debug/02. Topological-Sorting.Tests.csproj.CopyComplete
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting.Tests/obj/Debug/_02.Topological_Sorting.Tests.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting.Tests/obj/Debug/_02.Topological_Sorting.Tests.pdb

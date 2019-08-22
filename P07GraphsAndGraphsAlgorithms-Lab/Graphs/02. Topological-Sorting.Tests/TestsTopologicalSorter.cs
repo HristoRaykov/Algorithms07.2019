@@ -1,11 +1,12 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
+using NUnit.Framework;
+using Assert = NUnit.Framework.Assert;
 
-[TestClass]
+[TestFixture]
 public class UnitTestsTopSort
 {
-    [TestMethod]
+    [Test]
     public void TestTopSortAcyclicGraph6Vertices()
     {
         // Arrange
@@ -27,7 +28,7 @@ public class UnitTestsTopSort
         AssertTopologicallySorted(graph, sortedNodes);
     }
 
-    [TestMethod]
+    [Test]
     public void TestTopSortAcyclicGraph5Vertices()
     {
         // Arrange
@@ -47,7 +48,7 @@ public class UnitTestsTopSort
         AssertTopologicallySorted(graph, sortedNodes);
     }
 
-    [TestMethod]
+    [Test]
     public void TestTopSortGraph1Vertex()
     {
         // Arrange
@@ -63,7 +64,7 @@ public class UnitTestsTopSort
         AssertTopologicallySorted(graph, sortedNodes);
     }
 
-    [TestMethod]
+    [Test]
     public void TestTopSortEmptyGraph()
     {
         // Arrange
@@ -79,7 +80,7 @@ public class UnitTestsTopSort
         AssertTopologicallySorted(graph, sortedNodes);
     }
 
-    [TestMethod]
+    [Test]
     public void TestTopSortAcyclicGraph8Vertices()
     {
         // Arrange
@@ -102,7 +103,7 @@ public class UnitTestsTopSort
         AssertTopologicallySorted(graph, sortedNodes);
     }
 
-    [TestMethod]
+    [Test]
     public void TestTopSortAcyclicGraph2Vertices()
     {
         // Arrange
@@ -119,8 +120,7 @@ public class UnitTestsTopSort
         AssertTopologicallySorted(graph, sortedNodes);
     }
 
-    [TestMethod]
-    [ExpectedException(typeof(InvalidOperationException))]
+    [Test]
     public void TestTopSortGraph2VerticesWithCycle()
     {
         // Arrange
@@ -130,15 +130,19 @@ public class UnitTestsTopSort
         };
 
         // Act
-        var topSorter = new TopologicalSorter(graph);
-        var sortedNodes = new List<string>(topSorter.TopSort());
+        
 
         // Assert
-        AssertTopologicallySorted(graph, sortedNodes);
+        Assert.Throws<InvalidOperationException>(() =>
+        {
+            var topSorter = new TopologicalSorter(graph);
+            var sortedNodes = new List<string>(topSorter.TopSort());
+            AssertTopologicallySorted(graph, sortedNodes);
+        });
+        
     }
 
-    [TestMethod]
-    [ExpectedException(typeof(InvalidOperationException))]
+    [Test]
     public void TestTopSortGraph7VerticesWithCycle()
     {
         // Arrange
@@ -154,12 +158,17 @@ public class UnitTestsTopSort
         };
 
         // Act
-        var topSorter = new TopologicalSorter(graph);
-        var sortedNodes = new List<string>(topSorter.TopSort());
+
+        
+        Assert.Throws<InvalidOperationException>(() =>
+        {
+            var topSorter = new TopologicalSorter(graph);
+            var sortedNodes = new List<string>(topSorter.TopSort());
+        });
     }
 
-    [TestMethod]
-    [Timeout(200)]
+    [Test]
+    [NUnit.Framework.Timeout(200)]
     public void TestPerformanceGraph1000Vertices()
     {
         // Arrange

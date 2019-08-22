@@ -1,0 +1,7 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting/bin/Debug/_02.Topological_Sorting.exe.config
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting/bin/Debug/_02.Topological_Sorting.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting/bin/Debug/_02.Topological_Sorting.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting/obj/Debug/02. Topological-Sorting.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting/obj/Debug/02. Topological-Sorting.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting/obj/Debug/_02.Topological_Sorting.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/02. Topological-Sorting/obj/Debug/_02.Topological_Sorting.pdb

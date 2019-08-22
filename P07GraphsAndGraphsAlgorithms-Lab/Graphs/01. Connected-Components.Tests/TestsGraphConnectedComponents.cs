@@ -1,11 +1,11 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.IO;
+using NUnit.Framework;
 
-[TestClass]
+[TestFixture]
 public class TestsGraphConnectedComponents
 {
-    [TestMethod]
+    [Test]
     public void TestGraphConnectedComponents9Vertices()
     {
         // Arrange
@@ -41,7 +41,7 @@ public class TestsGraphConnectedComponents
         Assert.AreEqual(expectedOutput, output);
     }
 
-    [TestMethod]
+    [Test]
     public void TestGraphConnectedComponents1Vertex()
     {
         // Arrange
@@ -67,7 +67,7 @@ public class TestsGraphConnectedComponents
         Assert.AreEqual(expectedOutput, output);
     }
 
-    [TestMethod]
+    [Test]
     public void TestGraphConnectedComponents0Vertices()
     {
         // Arrange
@@ -90,7 +90,7 @@ public class TestsGraphConnectedComponents
         Assert.AreEqual(expectedOutput, output);
     }
 
-    [TestMethod]
+    [Test]
     public void TestGraphConnectedComponents7Vertices()
     {
         // Arrange
@@ -126,7 +126,7 @@ public class TestsGraphConnectedComponents
         Assert.AreEqual(expectedOutput, output);
     }
 
-    [TestMethod]
+    [Test]
     public void TestGraphConnectedComponents4Vertices()
     {
         // Arrange

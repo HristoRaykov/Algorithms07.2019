@@ -1,0 +1,13 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/01. Connected-Components.Tests/bin/Debug/_01.Connected_Components.Tests.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/01. Connected-Components.Tests/bin/Debug/_01.Connected_Components.Tests.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/01. Connected-Components.Tests/bin/Debug/nunit.framework.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/01. Connected-Components.Tests/bin/Debug/_01.Connected_Components.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/01. Connected-Components.Tests/bin/Debug/_01.Connected_Components.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/01. Connected-Components.Tests/bin/Debug/_01.Connected_Components.exe.config
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/01. Connected-Components.Tests/bin/Debug/nunit.framework.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/01. Connected-Components.Tests/bin/Debug/nunit.framework.xml
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/01. Connected-Components.Tests/obj/Debug/01. Connected-Components.Tests.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/01. Connected-Components.Tests/obj/Debug/01. Connected-Components.Tests.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/01. Connected-Components.Tests/obj/Debug/01. Connected-Components.Tests.csproj.CopyComplete
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/01. Connected-Components.Tests/obj/Debug/_01.Connected_Components.Tests.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/01. Connected-Components.Tests/obj/Debug/_01.Connected_Components.Tests.pdb

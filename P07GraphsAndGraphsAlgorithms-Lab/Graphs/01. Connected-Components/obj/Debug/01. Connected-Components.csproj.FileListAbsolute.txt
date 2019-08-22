@@ -1,0 +1,7 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/01. Connected-Components/bin/Debug/_01.Connected_Components.exe.config
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/01. Connected-Components/bin/Debug/_01.Connected_Components.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/01. Connected-Components/bin/Debug/_01.Connected_Components.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/01. Connected-Components/obj/Debug/01. Connected-Components.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/01. Connected-Components/obj/Debug/01. Connected-Components.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/01. Connected-Components/obj/Debug/_01.Connected_Components.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P07GraphsAndGraphsAlgorithms-Lab/Graphs/01. Connected-Components/obj/Debug/_01.Connected_Components.pdb
