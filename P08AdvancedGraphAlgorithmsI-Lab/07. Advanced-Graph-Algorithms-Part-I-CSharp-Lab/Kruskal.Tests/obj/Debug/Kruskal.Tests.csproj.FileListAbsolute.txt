@@ -1,0 +1,13 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Kruskal.Tests/bin/Debug/Kruskal.Tests.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Kruskal.Tests/bin/Debug/Kruskal.Tests.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Kruskal.Tests/bin/Debug/Kurskal.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Kruskal.Tests/bin/Debug/nunit.framework.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Kruskal.Tests/bin/Debug/Kurskal.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Kruskal.Tests/bin/Debug/Kurskal.exe.config
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Kruskal.Tests/bin/Debug/nunit.framework.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Kruskal.Tests/bin/Debug/nunit.framework.xml
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Kruskal.Tests/obj/Debug/Kruskal.Tests.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Kruskal.Tests/obj/Debug/Kruskal.Tests.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Kruskal.Tests/obj/Debug/Kruskal.Tests.csproj.CopyComplete
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Kruskal.Tests/obj/Debug/Kruskal.Tests.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Kruskal.Tests/obj/Debug/Kruskal.Tests.pdb

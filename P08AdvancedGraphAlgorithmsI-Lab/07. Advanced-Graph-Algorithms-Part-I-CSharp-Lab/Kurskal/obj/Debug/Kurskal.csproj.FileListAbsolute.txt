@@ -1,0 +1,7 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Kurskal/bin/Debug/Kurskal.exe.config
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Kurskal/bin/Debug/Kurskal.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Kurskal/bin/Debug/Kurskal.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Kurskal/obj/Debug/Kurskal.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Kurskal/obj/Debug/Kurskal.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Kurskal/obj/Debug/Kurskal.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Kurskal/obj/Debug/Kurskal.pdb

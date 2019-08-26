@@ -1,0 +1,13 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra.Tests/bin/Debug/Dijkstra.Tests.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra.Tests/bin/Debug/Dijkstra.Tests.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra.Tests/bin/Debug/Dijkstra.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra.Tests/bin/Debug/nunit.framework.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra.Tests/bin/Debug/Dijkstra.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra.Tests/bin/Debug/Dijkstra.exe.config
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra.Tests/bin/Debug/nunit.framework.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra.Tests/bin/Debug/nunit.framework.xml
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra.Tests/obj/Debug/Dijkstra.Tests.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra.Tests/obj/Debug/Dijkstra.Tests.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra.Tests/obj/Debug/Dijkstra.Tests.csproj.CopyComplete
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra.Tests/obj/Debug/Dijkstra.Tests.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra.Tests/obj/Debug/Dijkstra.Tests.pdb
