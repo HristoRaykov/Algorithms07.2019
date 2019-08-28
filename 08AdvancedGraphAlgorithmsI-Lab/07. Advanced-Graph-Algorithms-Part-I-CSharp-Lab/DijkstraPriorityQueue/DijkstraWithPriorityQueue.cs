@@ -9,10 +9,10 @@
             Node destinationNode)
         {
             ResetDistanceFromStart(graph);
-            
+
             var previous = new int?[graph.Count];
             var visited = new bool[graph.Count];
-            
+
 
             var priorityQueue = new PriorityQueue<Node>();
             sourceNode.DistanceFromStart = 0;
@@ -22,7 +22,7 @@
             while (priorityQueue.Count > 0)
             {
                 var currNode = priorityQueue.ExtractMin();
-                
+
                 var adjacents = graph[currNode];
                 foreach (var kvp in adjacents)
                 {
@@ -33,7 +33,7 @@
                         priorityQueue.Enqueue(adjacent);
                         visited[adjacent.Id] = true;
                     }
-                    
+
                     // recalculate min dist to adjacent node
                     if (currNode.DistanceFromStart + distance < adjacent.DistanceFromStart)
                     {
@@ -42,23 +42,21 @@
                         priorityQueue.DecreaseKey(adjacent);
                     }
                 }
-                
-                
             }
-            
-            
-            
+
+
             var path = ReconstructShortestPath(graph, destinationNode, previous);
             return path;
         }
 
-        private static List<int> ReconstructShortestPath(Dictionary<Node, Dictionary<Node, int>> graph, Node destinationNode, int?[] previous)
+        private static List<int> ReconstructShortestPath(Dictionary<Node, Dictionary<Node, int>> graph,
+            Node destinationNode, int?[] previous)
         {
             if (double.IsInfinity(destinationNode.DistanceFromStart))
             {
                 return null;
             }
-            
+
             var path = new List<int>();
             int? currNodeId = destinationNode.Id;
             while (currNodeId != null)
@@ -66,7 +64,7 @@
                 path.Add(currNodeId.Value);
                 currNodeId = previous[currNodeId.Value];
             }
-            
+
             path.Reverse();
             return path;
         }
