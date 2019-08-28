@@ -1,4 +1,6 @@
-﻿namespace Dijkstra
+﻿using Dijkstra;
+
+namespace DijkstraPriorityQueue
 {
     using System;
     using System.Collections.Generic;

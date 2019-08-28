@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P02AreasInMatrix/bin/Debug/P02AreasInMatrix.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P02AreasInMatrix/bin/Debug/P02AreasInMatrix.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P02AreasInMatrix/obj/Debug/P02AreasInMatrix.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P02AreasInMatrix/obj/Debug/P02AreasInMatrix.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P02AreasInMatrix/obj/Debug/P02AreasInMatrix.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P02AreasInMatrix/obj/Debug/P02AreasInMatrix.pdb

@@ -5,3 +5,10 @@
 /home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra/obj/Debug/Dijkstra.csproj.CoreCompileInputs.cache
 /home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra/obj/Debug/Dijkstra.exe
 /home/hristocr/SoftUni/Modules/Algorithms-07.2019/P08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra/obj/Debug/Dijkstra.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra/bin/Debug/Dijkstra.exe.config
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra/bin/Debug/Dijkstra.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra/bin/Debug/Dijkstra.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra/obj/Debug/Dijkstra.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra/obj/Debug/Dijkstra.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra/obj/Debug/Dijkstra.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/08AdvancedGraphAlgorithmsI-Lab/07. Advanced-Graph-Algorithms-Part-I-CSharp-Lab/Dijkstra/obj/Debug/Dijkstra.pdb

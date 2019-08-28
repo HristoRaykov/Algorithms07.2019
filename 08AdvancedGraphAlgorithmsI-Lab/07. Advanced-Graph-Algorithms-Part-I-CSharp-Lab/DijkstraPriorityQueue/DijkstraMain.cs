@@ -1,10 +1,9 @@
 ﻿using System.Collections.Generic;
 using Dijkstra;
+using System;
 
 namespace DijkstraPriorityQueue
 {
-    using System;
-
     public class DijkstraMain
     {
         public static void Main()
