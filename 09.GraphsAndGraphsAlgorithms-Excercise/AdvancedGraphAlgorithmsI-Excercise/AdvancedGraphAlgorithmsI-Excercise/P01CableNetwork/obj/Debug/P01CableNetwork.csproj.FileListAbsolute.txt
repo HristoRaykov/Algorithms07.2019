@@ -1,0 +1,12 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/AdvancedGraphAlgorithmsI-Excercise/P01CableNetwork/bin/Debug/P01CableNetwork.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/AdvancedGraphAlgorithmsI-Excercise/P01CableNetwork/bin/Debug/P01CableNetwork.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/AdvancedGraphAlgorithmsI-Excercise/P01CableNetwork/obj/Debug/P01CableNetwork.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/AdvancedGraphAlgorithmsI-Excercise/P01CableNetwork/obj/Debug/P01CableNetwork.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/AdvancedGraphAlgorithmsI-Excercise/P01CableNetwork/obj/Debug/P01CableNetwork.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/AdvancedGraphAlgorithmsI-Excercise/P01CableNetwork/obj/Debug/P01CableNetwork.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/AdvancedGraphAlgorithmsI-Excercise/AdvancedGraphAlgorithmsI-Excercise/P01CableNetwork/bin/Debug/P01CableNetwork.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/AdvancedGraphAlgorithmsI-Excercise/AdvancedGraphAlgorithmsI-Excercise/P01CableNetwork/bin/Debug/P01CableNetwork.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/AdvancedGraphAlgorithmsI-Excercise/AdvancedGraphAlgorithmsI-Excercise/P01CableNetwork/obj/Debug/P01CableNetwork.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/AdvancedGraphAlgorithmsI-Excercise/AdvancedGraphAlgorithmsI-Excercise/P01CableNetwork/obj/Debug/P01CableNetwork.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/AdvancedGraphAlgorithmsI-Excercise/AdvancedGraphAlgorithmsI-Excercise/P01CableNetwork/obj/Debug/P01CableNetwork.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/AdvancedGraphAlgorithmsI-Excercise/AdvancedGraphAlgorithmsI-Excercise/P01CableNetwork/obj/Debug/P01CableNetwork.pdb
