@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P04Salaries/bin/Debug/P04Salaries.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P04Salaries/bin/Debug/P04Salaries.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P04Salaries/obj/Debug/P04Salaries.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P04Salaries/obj/Debug/P04Salaries.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P04Salaries/obj/Debug/P04Salaries.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P04Salaries/obj/Debug/P04Salaries.pdb

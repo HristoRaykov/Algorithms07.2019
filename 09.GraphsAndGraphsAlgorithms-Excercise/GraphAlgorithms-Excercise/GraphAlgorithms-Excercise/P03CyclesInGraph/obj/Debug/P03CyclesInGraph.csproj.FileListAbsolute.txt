@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P03CyclesInGraph/bin/Debug/P03CyclesInGraph.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P03CyclesInGraph/bin/Debug/P03CyclesInGraph.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P03CyclesInGraph/obj/Debug/P03CyclesInGraph.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P03CyclesInGraph/obj/Debug/P03CyclesInGraph.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P03CyclesInGraph/obj/Debug/P03CyclesInGraph.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P03CyclesInGraph/obj/Debug/P03CyclesInGraph.pdb

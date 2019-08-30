@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P05BreakCycles/bin/Debug/P05BreakCycles.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P05BreakCycles/bin/Debug/P05BreakCycles.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P05BreakCycles/obj/Debug/P05BreakCycles.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P05BreakCycles/obj/Debug/P05BreakCycles.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P05BreakCycles/obj/Debug/P05BreakCycles.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/GraphAlgorithms-Excercise/P05BreakCycles/obj/Debug/P05BreakCycles.pdb
