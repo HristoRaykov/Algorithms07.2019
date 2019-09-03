@@ -36,7 +36,7 @@ namespace P01CableNetwork
 
         private static Edge FindMinEdge()
         {
-            // finds min edge with one connected and one not connected node
+            // finds min edge with one connected and one not connected node modified Prim algorithm
             for (int i = 0; i < notConnEdges.Count; i++)
             {
                 var edge = notConnEdges[i];

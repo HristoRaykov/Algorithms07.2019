@@ -1,0 +1,13 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/MaxFlowEdmondsKarp.Tests/bin/Debug/MaxFlowEdmondsKarp.Tests.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/MaxFlowEdmondsKarp.Tests/bin/Debug/MaxFlowEdmondsKarp.Tests.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/MaxFlowEdmondsKarp.Tests/bin/Debug/MaxFlowEdmonds-Karp.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/MaxFlowEdmondsKarp.Tests/bin/Debug/nunit.framework.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/MaxFlowEdmondsKarp.Tests/bin/Debug/MaxFlowEdmonds-Karp.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/MaxFlowEdmondsKarp.Tests/bin/Debug/MaxFlowEdmonds-Karp.exe.config
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/MaxFlowEdmondsKarp.Tests/bin/Debug/nunit.framework.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/MaxFlowEdmondsKarp.Tests/bin/Debug/nunit.framework.xml
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/MaxFlowEdmondsKarp.Tests/obj/Debug/MaxFlowEdmondsKarp.Tests.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/MaxFlowEdmondsKarp.Tests/obj/Debug/MaxFlowEdmondsKarp.Tests.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/MaxFlowEdmondsKarp.Tests/obj/Debug/MaxFlowEdmondsKarp.Tests.csproj.CopyComplete
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/MaxFlowEdmondsKarp.Tests/obj/Debug/MaxFlowEdmondsKarp.Tests.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/MaxFlowEdmondsKarp.Tests/obj/Debug/MaxFlowEdmondsKarp.Tests.pdb

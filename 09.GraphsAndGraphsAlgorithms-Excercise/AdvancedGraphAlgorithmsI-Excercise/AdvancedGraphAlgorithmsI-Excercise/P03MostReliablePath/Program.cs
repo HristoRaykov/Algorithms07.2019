@@ -55,16 +55,11 @@ namespace P03MostReliablePath
 
                 foreach (var adjacentNode in adjacentNodes)
                 {
-                    if (visited[adjacentNode])
-                    {
-                        continue;
-                    }
-
                     var adjacentNodeReliability = reliablity[adjacentNode];
                     var betweenNodesEdge =
                         edges.Find(e => (e.FirstNode == safestNode && e.SecondNode == adjacentNode) ||
                                         (e.FirstNode == adjacentNode && e.SecondNode == safestNode));
-                    if (adjacentNodeReliability < safestNodeReliability + betweenNodesEdge.Reliability)
+                    if (adjacentNodeReliability < safestNodeReliability * betweenNodesEdge.Reliability)
                     {
                         reliablity[adjacentNode] = safestNodeReliability * betweenNodesEdge.Reliability;
                         previous[adjacentNode] = safestNode;
@@ -92,7 +87,7 @@ namespace P03MostReliablePath
 
             return new KeyValuePair<int, double>(safestNode, maxReliability);
         }
-        
+
         private static List<int> ReconstructPath()
         {
             var path = new List<int>();
@@ -111,7 +106,7 @@ namespace P03MostReliablePath
 
         private static void ReadInput()
         {
-            var nodeCount = int.Parse(Console.ReadLine().Split( ' ')[1]);
+            var nodeCount = int.Parse(Console.ReadLine().Split(' ')[1]);
 
             graph = new List<int>[nodeCount];
             for (int i = 0; i < graph.Length; i++)
@@ -130,7 +125,7 @@ namespace P03MostReliablePath
             startNode = int.Parse(path[1]);
             targetNode = int.Parse(path[3]);
 
-            var edgeCount = int.Parse(Console.ReadLine().Split( ' ')[1]);
+            var edgeCount = int.Parse(Console.ReadLine().Split(' ')[1]);
 
             for (int i = 0; i < edgeCount; i++)
             {

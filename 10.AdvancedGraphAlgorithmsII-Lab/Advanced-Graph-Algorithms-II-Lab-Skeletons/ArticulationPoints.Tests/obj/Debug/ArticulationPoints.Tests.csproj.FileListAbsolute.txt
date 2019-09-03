@@ -1,0 +1,12 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/ArticulationPoints.Tests/bin/Debug/ArticulationPoints.Tests.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/ArticulationPoints.Tests/bin/Debug/ArticulationPoints.Tests.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/ArticulationPoints.Tests/bin/Debug/ArticulationPoints.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/ArticulationPoints.Tests/bin/Debug/nunit.framework.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/ArticulationPoints.Tests/bin/Debug/ArticulationPoints.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/ArticulationPoints.Tests/bin/Debug/ArticulationPoints.exe.config
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/ArticulationPoints.Tests/bin/Debug/nunit.framework.xml
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/ArticulationPoints.Tests/obj/Debug/ArticulationPoints.Tests.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/ArticulationPoints.Tests/obj/Debug/ArticulationPoints.Tests.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/ArticulationPoints.Tests/obj/Debug/ArticulationPoints.Tests.csproj.CopyComplete
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/ArticulationPoints.Tests/obj/Debug/ArticulationPoints.Tests.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/ArticulationPoints.Tests/obj/Debug/ArticulationPoints.Tests.pdb

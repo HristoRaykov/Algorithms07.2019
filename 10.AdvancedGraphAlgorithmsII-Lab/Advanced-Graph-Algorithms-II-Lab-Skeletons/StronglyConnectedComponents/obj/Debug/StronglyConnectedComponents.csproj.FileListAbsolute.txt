@@ -1,0 +1,7 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/StronglyConnectedComponents/bin/Debug/StronglyConnectedComponents.exe.config
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/StronglyConnectedComponents/bin/Debug/StronglyConnectedComponents.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/StronglyConnectedComponents/bin/Debug/StronglyConnectedComponents.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/StronglyConnectedComponents/obj/Debug/StronglyConnectedComponents.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/StronglyConnectedComponents/obj/Debug/StronglyConnectedComponents.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/StronglyConnectedComponents/obj/Debug/StronglyConnectedComponents.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/StronglyConnectedComponents/obj/Debug/StronglyConnectedComponents.pdb
