@@ -10,3 +10,4 @@
 /home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/ArticulationPoints.Tests/obj/Debug/ArticulationPoints.Tests.csproj.CopyComplete
 /home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/ArticulationPoints.Tests/obj/Debug/ArticulationPoints.Tests.dll
 /home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/ArticulationPoints.Tests/obj/Debug/ArticulationPoints.Tests.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/10.AdvancedGraphAlgorithmsII-Lab/Advanced-Graph-Algorithms-II-Lab-Skeletons/ArticulationPoints.Tests/bin/Debug/nunit.framework.pdb
