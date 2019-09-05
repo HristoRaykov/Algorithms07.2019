@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P03MakeGraphStronglyConnected/bin/Debug/P03MakeGraphStronglyConnected.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P03MakeGraphStronglyConnected/bin/Debug/P03MakeGraphStronglyConnected.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P03MakeGraphStronglyConnected/obj/Debug/P03MakeGraphStronglyConnected.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P03MakeGraphStronglyConnected/obj/Debug/P03MakeGraphStronglyConnected.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P03MakeGraphStronglyConnected/obj/Debug/P03MakeGraphStronglyConnected.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P03MakeGraphStronglyConnected/obj/Debug/P03MakeGraphStronglyConnected.pdb

@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P02BiConnectedComponents/bin/Debug/P02BiConnectedComponents.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P02BiConnectedComponents/bin/Debug/P02BiConnectedComponents.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P02BiConnectedComponents/obj/Debug/P02BiConnectedComponents.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P02BiConnectedComponents/obj/Debug/P02BiConnectedComponents.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P02BiConnectedComponents/obj/Debug/P02BiConnectedComponents.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P02BiConnectedComponents/obj/Debug/P02BiConnectedComponents.pdb

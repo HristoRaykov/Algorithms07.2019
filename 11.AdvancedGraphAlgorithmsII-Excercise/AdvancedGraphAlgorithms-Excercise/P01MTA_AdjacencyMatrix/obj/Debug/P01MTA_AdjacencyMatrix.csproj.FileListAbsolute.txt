@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P01MTA_AdjacencyMatrix/bin/Debug/P01MTA_AdjacencyMatrix.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P01MTA_AdjacencyMatrix/bin/Debug/P01MTA_AdjacencyMatrix.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P01MTA_AdjacencyMatrix/obj/Debug/P01MTA_AdjacencyMatrix.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P01MTA_AdjacencyMatrix/obj/Debug/P01MTA_AdjacencyMatrix.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P01MTA_AdjacencyMatrix/obj/Debug/P01MTA_AdjacencyMatrix.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P01MTA_AdjacencyMatrix/obj/Debug/P01MTA_AdjacencyMatrix.pdb
