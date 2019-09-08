@@ -10,7 +10,7 @@ namespace DijkstraPriorityQueue
         public static List<int> DijkstraAlgorithm(Dictionary<Node, Dictionary<Node, int>> graph, Node sourceNode,
             Node destinationNode)
         {
-            ResetDistanceFromStart(graph);
+            //ResetDistanceFromStart(graph);
 
             var previous = new int?[graph.Count];
             var visited = new bool[graph.Count];

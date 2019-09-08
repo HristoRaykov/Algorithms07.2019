@@ -56,7 +56,7 @@ namespace P01MaximumTasksAssignment
                 assaignedTasks[person] = task;
             }
 
-            foreach (var person in assaignedTasks.Keys.OrderBy(x => x))
+            foreach (var person in assaignedTasks.Keys)
             {
                 Console.WriteLine($"{nodes[person]}-{nodes[assaignedTasks[person]]}");
             }

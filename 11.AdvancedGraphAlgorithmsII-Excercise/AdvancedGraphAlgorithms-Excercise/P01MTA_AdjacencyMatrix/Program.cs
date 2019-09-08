@@ -21,7 +21,7 @@ namespace P01MTA_AdjacencyMatrix
             ReadInput();
 
             var startNode = 0;
-            var endNode = nodes.Length - 1;
+            var endNode = graph.Length - 1;
 
             while (Bfs(startNode, endNode))
             {
@@ -39,6 +39,7 @@ namespace P01MTA_AdjacencyMatrix
             }
 
             var assaignedTasks = new List<string>();
+
 
             for (int person = 1; person <= peopleCount; person++)
             {
@@ -58,22 +59,21 @@ namespace P01MTA_AdjacencyMatrix
 
         private static bool Bfs(int startNode, int endNode)
         {
-            var visited = new bool[nodes.Length];
+            var visited = new bool[graph.Length];
 
             var queue = new Queue<int>();
             queue.Enqueue(startNode);
+            visited[startNode] = true;
             while (queue.Count > 0)
             {
                 var currNode = queue.Dequeue();
 
-                visited[currNode] = true;
-
-                var children = graph[currNode];
-                for (int child = 0; child < children.Length; child++)
+                for (int child = 0; child < graph.Length; child++)
                 {
                     if (graph[currNode][child] > 0 && !visited[child])
                     {
                         parents[child] = currNode;
+                        visited[child] = true;
                         queue.Enqueue(child);
                     }
                 }
