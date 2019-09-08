@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/ProblemSolvingMethodology/P02ZigZagMatrix/bin/Debug/P02ZigZagMatrix.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/ProblemSolvingMethodology/P02ZigZagMatrix/bin/Debug/P02ZigZagMatrix.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/ProblemSolvingMethodology/P02ZigZagMatrix/obj/Debug/P02ZigZagMatrix.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/ProblemSolvingMethodology/P02ZigZagMatrix/obj/Debug/P02ZigZagMatrix.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/ProblemSolvingMethodology/P02ZigZagMatrix/obj/Debug/P02ZigZagMatrix.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/09.GraphsAndGraphsAlgorithms-Excercise/GraphAlgorithms-Excercise/ProblemSolvingMethodology/P02ZigZagMatrix/obj/Debug/P02ZigZagMatrix.pdb

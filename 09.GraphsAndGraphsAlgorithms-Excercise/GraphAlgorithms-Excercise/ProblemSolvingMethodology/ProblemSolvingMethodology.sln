@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01Blocks", "P01Blocks\P01Blocks.csproj", "{79D459C0-9880-471C-A6B4-CD610B288461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02ZigZagMatrix", "P02ZigZagMatrix\P02ZigZagMatrix.csproj", "{26E397A4-F220-4095-A9D4-AC35FBC0EC28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79D459C0-9880-471C-A6B4-CD610B288461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D459C0-9880-471C-A6B4-CD610B288461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D459C0-9880-471C-A6B4-CD610B288461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D459C0-9880-471C-A6B4-CD610B288461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26E397A4-F220-4095-A9D4-AC35FBC0EC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E397A4-F220-4095-A9D4-AC35FBC0EC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E397A4-F220-4095-A9D4-AC35FBC0EC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E397A4-F220-4095-A9D4-AC35FBC0EC28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
