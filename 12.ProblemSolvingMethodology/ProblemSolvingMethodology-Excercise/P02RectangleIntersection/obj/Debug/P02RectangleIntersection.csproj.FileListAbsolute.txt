@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/ProblemSolvingMethodology-Excercise/P02RectangleIntersection/bin/Debug/P02RectangleIntersection.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/ProblemSolvingMethodology-Excercise/P02RectangleIntersection/bin/Debug/P02RectangleIntersection.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/ProblemSolvingMethodology-Excercise/P02RectangleIntersection/obj/Debug/P02RectangleIntersection.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/ProblemSolvingMethodology-Excercise/P02RectangleIntersection/obj/Debug/P02RectangleIntersection.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/ProblemSolvingMethodology-Excercise/P02RectangleIntersection/obj/Debug/P02RectangleIntersection.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/ProblemSolvingMethodology-Excercise/P02RectangleIntersection/obj/Debug/P02RectangleIntersection.pdb

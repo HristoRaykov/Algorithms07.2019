@@ -5,11 +5,11 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{0005CBCB-6641-42DD-A50C-9FC2583EC961}</ProjectGuid>
+        <ProjectGuid>{1B028135-017D-41D5-A994-3A333849BD34}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>P02Rectangle_Intersection</RootNamespace>
-        <AssemblyName>P02Rectangle_Intersection</AssemblyName>
+        <RootNamespace>P02RectangleIntersection</RootNamespace>
+        <AssemblyName>P02RectangleIntersection</AssemblyName>
         <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
     </PropertyGroup>

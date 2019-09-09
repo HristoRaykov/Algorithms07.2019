@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("P02Rectangle_Intersection")]
+[assembly: AssemblyTitle("P02RectangleIntersection")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("P02Rectangle_Intersection")]
+[assembly: AssemblyProduct("P02RectangleIntersection")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0005CBCB-6641-42DD-A50C-9FC2583EC961")]
+[assembly: Guid("1B028135-017D-41D5-A994-3A333849BD34")]
 
 // Version information for an assembly consists of the following four values:
 //
