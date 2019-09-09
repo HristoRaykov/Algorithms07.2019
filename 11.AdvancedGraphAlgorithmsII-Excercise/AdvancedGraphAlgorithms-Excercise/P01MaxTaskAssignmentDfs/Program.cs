@@ -1,4 +1,4 @@
-﻿﻿using System;
+﻿using System;
 using System.Collections.Generic;
 
 namespace P01MaxTaskAssignmentDfs
@@ -19,26 +19,43 @@ namespace P01MaxTaskAssignmentDfs
 
             for (int person = 0; person < graph[0].Length; person++)
             {
-                FindPath(person, -1);
+                visited = new bool[graph.Length];
+                FindPath(person);
             }
 
-            Console.WriteLine();
+            var result = new List<string>();
+            for (int i = 0; i < assignedTasks.Length; i++)
+            {
+                result.Add($"{peopleNames[assignedTasks[i]]}-{i+1}");
+            }
+            result.Sort();
+            Console.WriteLine(string.Join(Environment.NewLine, result));
         }
 
-        private static bool FindPath(int person, int taskToAvoid)
+        private static bool FindPath(int person)
         {
             for (int task = 0; task < graph.Length; task++)
             {
-                if (graph[task][person] > 0 && task!=taskToAvoid)
+                if (graph[task][person] > 0 && !visited[task])
                 {
+                    visited[task] = true;
                     // if task is not assigned or the assigned person can take another task
-                    var personAssignedToTask = assignedTasks[task];
-                    if (assignedTasks[task] < 0 || FindPath(assignedTasks[task], task))
+                    if (assignedTasks[task] < 0)
                     {
                         assignedTasks[task] = person;
+
                         return true;
                     }
-                    
+
+                    var hasPath = FindPath(assignedTasks[task]);
+                    if (hasPath)
+                    {
+                        assignedTasks[task] = person;
+
+                        return true;
+                    }
+
+                    Console.WriteLine();
                 }
             }
 
