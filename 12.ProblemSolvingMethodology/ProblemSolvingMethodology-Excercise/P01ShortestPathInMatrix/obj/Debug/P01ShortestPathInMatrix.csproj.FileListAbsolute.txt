@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/ProblemSolvingMethodology-Excercise/P01ShortestPathInMatrix/bin/Debug/P01ShortestPathInMatrix.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/ProblemSolvingMethodology-Excercise/P01ShortestPathInMatrix/bin/Debug/P01ShortestPathInMatrix.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/ProblemSolvingMethodology-Excercise/P01ShortestPathInMatrix/obj/Debug/P01ShortestPathInMatrix.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/ProblemSolvingMethodology-Excercise/P01ShortestPathInMatrix/obj/Debug/P01ShortestPathInMatrix.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/ProblemSolvingMethodology-Excercise/P01ShortestPathInMatrix/obj/Debug/P01ShortestPathInMatrix.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/ProblemSolvingMethodology-Excercise/P01ShortestPathInMatrix/obj/Debug/P01ShortestPathInMatrix.pdb
