@@ -1,2 +1,6 @@
 /home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P01MaxTaskAssignmentDfs/obj/Debug/P01MaxTaskAssignmentDfs.csprojAssemblyReference.cache
 /home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P01MaxTaskAssignmentDfs/obj/Debug/P01MaxTaskAssignmentDfs.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P01MaxTaskAssignmentDfs/bin/Debug/P01MaxTaskAssignmentDfs.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P01MaxTaskAssignmentDfs/bin/Debug/P01MaxTaskAssignmentDfs.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P01MaxTaskAssignmentDfs/obj/Debug/P01MaxTaskAssignmentDfs.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P01MaxTaskAssignmentDfs/obj/Debug/P01MaxTaskAssignmentDfs.pdb
