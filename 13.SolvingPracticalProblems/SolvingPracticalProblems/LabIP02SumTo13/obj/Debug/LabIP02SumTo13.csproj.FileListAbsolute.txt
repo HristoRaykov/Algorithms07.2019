@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIP02SumTo13/bin/Debug/LabIP02SumTo13.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIP02SumTo13/bin/Debug/LabIP02SumTo13.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIP02SumTo13/obj/Debug/LabIP02SumTo13.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIP02SumTo13/obj/Debug/LabIP02SumTo13.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIP02SumTo13/obj/Debug/LabIP02SumTo13.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIP02SumTo13/obj/Debug/LabIP02SumTo13.pdb

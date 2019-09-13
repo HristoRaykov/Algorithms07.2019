@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabIP01Elections", "LabIP01Elections\LabIP01Elections.csproj", "{4F1411FA-D31D-41F5-919B-EC23B6E8DD43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabIP02SumTo13", "LabIP02SumTo13\LabIP02SumTo13.csproj", "{B917AD92-344D-4E82-B7D5-2E892A903947}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{4F1411FA-D31D-41F5-919B-EC23B6E8DD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F1411FA-D31D-41F5-919B-EC23B6E8DD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F1411FA-D31D-41F5-919B-EC23B6E8DD43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B917AD92-344D-4E82-B7D5-2E892A903947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B917AD92-344D-4E82-B7D5-2E892A903947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B917AD92-344D-4E82-B7D5-2E892A903947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B917AD92-344D-4E82-B7D5-2E892A903947}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
