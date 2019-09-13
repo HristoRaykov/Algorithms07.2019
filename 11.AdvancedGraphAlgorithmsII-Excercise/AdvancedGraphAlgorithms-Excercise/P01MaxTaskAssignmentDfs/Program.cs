@@ -5,6 +5,7 @@ namespace P01MaxTaskAssignmentDfs
 {
     internal class Program
     {
+        // rows are tasks, cols are people
         private static int[][] graph;
 
         private static char[] peopleNames;
@@ -17,7 +18,8 @@ namespace P01MaxTaskAssignmentDfs
         {
             ReadInput();
 
-            for (int person = 0; person < graph[0].Length; person++)
+//            for (int person = 0; person < graph[0].Length; person++)
+            for (int person = graph[0].Length - 1; person >= 0; person--)
             {
                 visited = new bool[graph.Length];
                 FindPath(person);
@@ -26,8 +28,14 @@ namespace P01MaxTaskAssignmentDfs
             var result = new List<string>();
             for (int i = 0; i < assignedTasks.Length; i++)
             {
-                result.Add($"{peopleNames[assignedTasks[i]]}-{i+1}");
+                var personToRmove = assignedTasks[i];
+                if (personToRmove != -1)
+                {
+                    var personName = peopleNames[personToRmove];
+                    result.Add($"{personName}-{i + 1}");
+                }
             }
+
             result.Sort();
             Console.WriteLine(string.Join(Environment.NewLine, result));
         }
@@ -35,6 +43,7 @@ namespace P01MaxTaskAssignmentDfs
         private static bool FindPath(int person)
         {
             for (int task = 0; task < graph.Length; task++)
+//            for (int task = graph.Length - 1; task >= 0; task--)
             {
                 if (graph[task][person] > 0 && !visited[task])
                 {
@@ -93,12 +102,12 @@ namespace P01MaxTaskAssignmentDfs
                 startChar++;
             }
 
-            for (int task = 0; task < tasksCount; task++)
+            for (int person = 0; person < peopleCount; person++)
             {
                 var line = Console.ReadLine().ToCharArray();
-                for (int person = 0; person < line.Length; person++)
+                for (int task = 0; task < tasksCount; task++)
                 {
-                    var capacity = line[person] == 'Y' ? 1 : 0;
+                    var capacity = line[task] == 'Y' ? 1 : 0;
 
                     if (capacity == 1)
                     {

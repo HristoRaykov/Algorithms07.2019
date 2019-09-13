@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/P01Elections/bin/Debug/P01Elections.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/P01Elections/bin/Debug/P01Elections.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/P01Elections/obj/Debug/P01Elections.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/P01Elections/obj/Debug/P01Elections.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/P01Elections/obj/Debug/P01Elections.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/P01Elections/obj/Debug/P01Elections.pdb

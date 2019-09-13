@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03MakeGraphStronglyConnect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01MaxTaskAssignmentDfs", "P01MaxTaskAssignmentDfs\P01MaxTaskAssignmentDfs.csproj", "{125C86F2-8C8F-4868-A1A0-697EF76AF39E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01MTA", "P01MTA\P01MTA.csproj", "{F4EEF214-C9B9-4D98-8D6D-7E508A2A79CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{125C86F2-8C8F-4868-A1A0-697EF76AF39E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{125C86F2-8C8F-4868-A1A0-697EF76AF39E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{125C86F2-8C8F-4868-A1A0-697EF76AF39E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4EEF214-C9B9-4D98-8D6D-7E508A2A79CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4EEF214-C9B9-4D98-8D6D-7E508A2A79CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4EEF214-C9B9-4D98-8D6D-7E508A2A79CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4EEF214-C9B9-4D98-8D6D-7E508A2A79CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P01MTA/obj/Debug/P01MTA.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P01MTA/obj/Debug/P01MTA.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P01MTA/bin/Debug/P01MTA.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P01MTA/bin/Debug/P01MTA.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P01MTA/obj/Debug/P01MTA.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/11.AdvancedGraphAlgorithmsII-Excercise/AdvancedGraphAlgorithms-Excercise/P01MTA/obj/Debug/P01MTA.pdb
