@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabIP01Elections", "LabIP01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabIP02SumTo13", "LabIP02SumTo13\LabIP02SumTo13.csproj", "{B917AD92-344D-4E82-B7D5-2E892A903947}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabIP03Lumber", "LabIP03Lumber\LabIP03Lumber.csproj", "{A968A9E6-16EF-40D6-BDC2-38A1FAF43EBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerIP01ParkingZones", "ExerIP01ParkingZones\ExerIP01ParkingZones.csproj", "{D4A1EB67-6641-44B5-AF99-729036E6DEC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{B917AD92-344D-4E82-B7D5-2E892A903947}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B917AD92-344D-4E82-B7D5-2E892A903947}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B917AD92-344D-4E82-B7D5-2E892A903947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A968A9E6-16EF-40D6-BDC2-38A1FAF43EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A968A9E6-16EF-40D6-BDC2-38A1FAF43EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A968A9E6-16EF-40D6-BDC2-38A1FAF43EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A968A9E6-16EF-40D6-BDC2-38A1FAF43EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4A1EB67-6641-44B5-AF99-729036E6DEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A1EB67-6641-44B5-AF99-729036E6DEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A1EB67-6641-44B5-AF99-729036E6DEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A1EB67-6641-44B5-AF99-729036E6DEC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
