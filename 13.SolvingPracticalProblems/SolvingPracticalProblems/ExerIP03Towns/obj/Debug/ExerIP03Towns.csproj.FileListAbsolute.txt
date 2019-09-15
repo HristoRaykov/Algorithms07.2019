@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIP03Towns/bin/Debug/ExerIP03Towns.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIP03Towns/bin/Debug/ExerIP03Towns.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIP03Towns/obj/Debug/ExerIP03Towns.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIP03Towns/obj/Debug/ExerIP03Towns.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIP03Towns/obj/Debug/ExerIP03Towns.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIP03Towns/obj/Debug/ExerIP03Towns.pdb

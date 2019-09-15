@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIP04ShopKeeper/bin/Debug/ExerIP04ShopKeeper.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIP04ShopKeeper/bin/Debug/ExerIP04ShopKeeper.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIP04ShopKeeper/obj/Debug/ExerIP04ShopKeeper.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIP04ShopKeeper/obj/Debug/ExerIP04ShopKeeper.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIP04ShopKeeper/obj/Debug/ExerIP04ShopKeeper.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIP04ShopKeeper/obj/Debug/ExerIP04ShopKeeper.pdb

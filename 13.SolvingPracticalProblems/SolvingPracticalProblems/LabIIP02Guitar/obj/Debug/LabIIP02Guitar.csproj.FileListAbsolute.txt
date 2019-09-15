@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIIP02Guitar/bin/Debug/LabIIP02Guitar.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIIP02Guitar/bin/Debug/LabIIP02Guitar.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIIP02Guitar/obj/Debug/LabIIP02Guitar.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIIP02Guitar/obj/Debug/LabIIP02Guitar.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIIP02Guitar/obj/Debug/LabIIP02Guitar.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIIP02Guitar/obj/Debug/LabIIP02Guitar.pdb

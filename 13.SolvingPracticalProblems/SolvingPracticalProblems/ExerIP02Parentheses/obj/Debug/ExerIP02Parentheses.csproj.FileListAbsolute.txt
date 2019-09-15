@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIP02Parentheses/bin/Debug/ExerIP02Parentheses.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIP02Parentheses/bin/Debug/ExerIP02Parentheses.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIP02Parentheses/obj/Debug/ExerIP02Parentheses.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIP02Parentheses/obj/Debug/ExerIP02Parentheses.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIP02Parentheses/obj/Debug/ExerIP02Parentheses.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIP02Parentheses/obj/Debug/ExerIP02Parentheses.pdb
