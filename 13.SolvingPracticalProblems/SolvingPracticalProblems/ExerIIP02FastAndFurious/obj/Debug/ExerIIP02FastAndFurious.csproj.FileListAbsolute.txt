@@ -4,3 +4,5 @@
 /home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIIP02FastAndFurious/obj/Debug/ExerIIP02FastAndFurious.csproj.CoreCompileInputs.cache
 /home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIIP02FastAndFurious/obj/Debug/ExerIIP02FastAndFurious.exe
 /home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIIP02FastAndFurious/obj/Debug/ExerIIP02FastAndFurious.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIIP02FastAndFurious/bin/Debug/PowerCollections.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIIP02FastAndFurious/obj/Debug/ExerIIP02FastAndFurious.csproj.CopyComplete
