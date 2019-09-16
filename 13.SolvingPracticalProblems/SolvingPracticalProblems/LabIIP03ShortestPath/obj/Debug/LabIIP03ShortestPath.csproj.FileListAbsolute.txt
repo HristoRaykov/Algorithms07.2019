@@ -1,0 +1,9 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIIP03ShortestPath/bin/Debug/LabIIP03ShortestPath.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIIP03ShortestPath/bin/Debug/LabIIP03ShortestPath.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIIP03ShortestPath/obj/Debug/LabIIP03ShortestPath.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIIP03ShortestPath/obj/Debug/LabIIP03ShortestPath.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIIP03ShortestPath/obj/Debug/LabIIP03ShortestPath.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIIP03ShortestPath/obj/Debug/LabIIP03ShortestPath.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIIP03ShortestPath/bin/Debug/SoftUni.Wintellect.PowerCollections.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIIP03ShortestPath/bin/Debug/SoftUni.Wintellect.PowerCollections.xml
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/LabIIP03ShortestPath/obj/Debug/LabIIP03ShortestPath.csproj.CopyComplete

@@ -1,0 +1,9 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIIP01Shelter/bin/Debug/ExerIIP01Shelter.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIIP01Shelter/bin/Debug/ExerIIP01Shelter.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIIP01Shelter/bin/Debug/SoftUni.Wintellect.PowerCollections.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIIP01Shelter/bin/Debug/SoftUni.Wintellect.PowerCollections.xml
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIIP01Shelter/obj/Debug/ExerIIP01Shelter.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIIP01Shelter/obj/Debug/ExerIIP01Shelter.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIIP01Shelter/obj/Debug/ExerIIP01Shelter.csproj.CopyComplete
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIIP01Shelter/obj/Debug/ExerIIP01Shelter.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/13.SolvingPracticalProblems/SolvingPracticalProblems/ExerIIP01Shelter/obj/Debug/ExerIIP01Shelter.pdb

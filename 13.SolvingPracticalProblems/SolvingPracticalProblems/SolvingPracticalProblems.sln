@@ -20,6 +20,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabIIP02Guitar", "LabIIP02G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabIIP03ShortestPath", "LabIIP03ShortestPath\LabIIP03ShortestPath.csproj", "{2C83D149-26EE-46B1-BE6C-810E67AD9A9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerIIP01Shelter", "ExerIIP01Shelter\ExerIIP01Shelter.csproj", "{E6729FDE-6A5F-4ABC-9727-6342DBDBFD23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerIIP02FastAndFurious", "ExerIIP02FastAndFurious\ExerIIP02FastAndFurious.csproj", "{8B7F176F-145F-42C2-A14D-C5A41350E050}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +70,13 @@ Global
 		{2C83D149-26EE-46B1-BE6C-810E67AD9A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C83D149-26EE-46B1-BE6C-810E67AD9A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C83D149-26EE-46B1-BE6C-810E67AD9A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6729FDE-6A5F-4ABC-9727-6342DBDBFD23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6729FDE-6A5F-4ABC-9727-6342DBDBFD23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6729FDE-6A5F-4ABC-9727-6342DBDBFD23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6729FDE-6A5F-4ABC-9727-6342DBDBFD23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B7F176F-145F-42C2-A14D-C5A41350E050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7F176F-145F-42C2-A14D-C5A41350E050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7F176F-145F-42C2-A14D-C5A41350E050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7F176F-145F-42C2-A14D-C5A41350E050}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
