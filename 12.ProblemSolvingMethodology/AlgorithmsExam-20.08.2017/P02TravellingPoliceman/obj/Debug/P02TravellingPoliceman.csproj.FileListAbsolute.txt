@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/AlgorithmsExam-20.08.2017/P02TravellingPoliceman/bin/Debug/P02TravellingPoliceman.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/AlgorithmsExam-20.08.2017/P02TravellingPoliceman/bin/Debug/P02TravellingPoliceman.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/AlgorithmsExam-20.08.2017/P02TravellingPoliceman/obj/Debug/P02TravellingPoliceman.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/AlgorithmsExam-20.08.2017/P02TravellingPoliceman/obj/Debug/P02TravellingPoliceman.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/AlgorithmsExam-20.08.2017/P02TravellingPoliceman/obj/Debug/P02TravellingPoliceman.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/AlgorithmsExam-20.08.2017/P02TravellingPoliceman/obj/Debug/P02TravellingPoliceman.pdb

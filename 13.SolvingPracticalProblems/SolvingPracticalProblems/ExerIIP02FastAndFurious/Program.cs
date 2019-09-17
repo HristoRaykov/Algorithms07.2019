@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.Linq;
 using System.Threading;
 using Wintellect.PowerCollections;
@@ -12,13 +11,14 @@ namespace ExerIIP02FastAndFurious
         private static Dictionary<string, List<Road>> roadsNet;
 
         private static Dictionary<string, OrderedBag<Record>> records;
-
         private static Dictionary<string, Dictionary<string, TimeSpan>> fastestRoutes;
+
+        private static HashSet<string> speedingCars;
 
         public static void Main(string[] args)
         {
-            Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
-            
+//            Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
+
             ReadInput();
 
             foreach (var licenseNum in records.Keys)
@@ -30,28 +30,69 @@ namespace ExerIIP02FastAndFurious
 
                 foreach (var citiesPair in citiesPairs)
                 {
-                    var road = roadsNet[citiesPair.FirstCity]
-                        .Where(r => r.GetDestination(citiesPair.FirstCity) == citiesPair.SecondCity)
-                        .First();
-                    if (road != null)
+                    if (!fastestRoutes.ContainsKey(citiesPair.FirstCity))
                     {
-                        if (!fastestRoutes.ContainsKey(road.FirstCity))
+                        FindFastestRoutes(citiesPair.FirstCity);
+                    }
+
+                    if (fastestRoutes[citiesPair.FirstCity].ContainsKey(citiesPair.SecondCity))
+                    {
+                        var fastestRoute = fastestRoutes[citiesPair.FirstCity][citiesPair.SecondCity];
+                        if (citiesPair.Time < fastestRoute)
                         {
-                            FindFastestRoutes(road.FirstCity);
+                            speedingCars.Add(licenseNum);
                         }
                     }
+                    
                 }
-
-                Console.WriteLine();
             }
 
-            Console.WriteLine();
+            Console.WriteLine(string.Join(Environment.NewLine, speedingCars.OrderBy(x=>x)));
         }
 
-        private static void FindFastestRoutes(string city)
+        private static void FindFastestRoutes(string startCity)
         {
-            throw new NotImplementedException();
+            var times = new Dictionary<string, TimeSpan>();
+            times[startCity] = TimeSpan.Zero;
+            var visited = new HashSet<string>();
+            visited.Add(startCity);
+            var priorQueue = new OrderedBag<KeyValuePair<string, TimeSpan>>(
+                Comparer<KeyValuePair<string, TimeSpan>>.Create((kvp1, kvp2) =>
+                    kvp1.Value.CompareTo(kvp2.Value)));
+            priorQueue.Add(new KeyValuePair<string, TimeSpan>(startCity, TimeSpan.Zero));
+
+            while (priorQueue.Count > 0)
+            {
+                var kvp = priorQueue.RemoveFirst();
+                var currCity = kvp.Key;
+                var currTime = kvp.Value;
+
+                var directDests = roadsNet[currCity];
+                foreach (var road in directDests)
+                {
+                    var destCity = road.GetDestination(currCity);
+                    var destTime = road.MinAllowedTime;
+                    if (!visited.Contains(destCity))
+                    {
+                        priorQueue.Add(new KeyValuePair<string, TimeSpan>(destCity, destTime));
+                        visited.Add(destCity);
+                    }
+
+                    if (!times.ContainsKey(destCity))
+                    {
+                        times[destCity] = TimeSpan.MaxValue;
+                    }
+
+                    if (currTime + road.MinAllowedTime < times[destCity])
+                    {
+                        times[destCity] = currTime + road.MinAllowedTime;
+                    }
+                }
+            }
+
+            fastestRoutes[startCity] = times;
         }
+
 
         private static void GetPossibleCombinations(List<CitiesPair> citiesPairs,
             string[] citiesPair, int pairIdx, OrderedBag<Record> recs, int recIdx, DateTime startTime)
@@ -81,6 +122,10 @@ namespace ExerIIP02FastAndFurious
             roadsNet = new Dictionary<string, List<Road>>();
 
             records = new Dictionary<string, OrderedBag<Record>>();
+
+            fastestRoutes = new Dictionary<string, Dictionary<string, TimeSpan>>();
+
+            speedingCars = new HashSet<string>();
 
             var line = Console.ReadLine();
             while (true)
@@ -127,7 +172,7 @@ namespace ExerIIP02FastAndFurious
 
                 var city = tokens[0];
                 var licenseNum = tokens[1];
-                var time = DateTime.Parse("01/01/0001 " + tokens[2]);
+                var time = DateTime.Parse(tokens[2]);
 
                 var record = new Record(city, time);
 
@@ -200,12 +245,12 @@ namespace ExerIIP02FastAndFurious
         {
             if (FirstCity == city)
             {
-                return FirstCity;
+                return SecondCity;
             }
 
             if (SecondCity == city)
             {
-                return SecondCity;
+                return FirstCity;
             }
 
             return "";

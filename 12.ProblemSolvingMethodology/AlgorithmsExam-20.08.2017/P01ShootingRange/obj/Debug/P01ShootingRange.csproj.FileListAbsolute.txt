@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/AlgorithmsExam-20.08.2017/P01ShootingRange/bin/Debug/P01ShootingRange.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/AlgorithmsExam-20.08.2017/P01ShootingRange/bin/Debug/P01ShootingRange.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/AlgorithmsExam-20.08.2017/P01ShootingRange/obj/Debug/P01ShootingRange.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/AlgorithmsExam-20.08.2017/P01ShootingRange/obj/Debug/P01ShootingRange.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/AlgorithmsExam-20.08.2017/P01ShootingRange/obj/Debug/P01ShootingRange.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/12.ProblemSolvingMethodology/AlgorithmsExam-20.08.2017/P01ShootingRange/obj/Debug/P01ShootingRange.pdb
