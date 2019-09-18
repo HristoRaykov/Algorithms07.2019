@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03TourDeSofia", "P03TourDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04ChainLightning", "P04ChainLightning\P04ChainLightning.csproj", "{E6D1311F-1FAF-4ACA-A57E-3D1619874530}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04ChainLightningMST", "P04ChainLightningMST\P04ChainLightningMST.csproj", "{D4578383-E532-4DDD-8E10-BF30F492DD53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{E6D1311F-1FAF-4ACA-A57E-3D1619874530}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6D1311F-1FAF-4ACA-A57E-3D1619874530}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6D1311F-1FAF-4ACA-A57E-3D1619874530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4578383-E532-4DDD-8E10-BF30F492DD53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4578383-E532-4DDD-8E10-BF30F492DD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4578383-E532-4DDD-8E10-BF30F492DD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4578383-E532-4DDD-8E10-BF30F492DD53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

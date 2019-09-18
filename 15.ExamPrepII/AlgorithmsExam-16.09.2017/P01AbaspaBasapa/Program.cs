@@ -1,4 +1,4 @@
-﻿namespace P04ChainLightning
+﻿namespace P01AbaspaBasapa
 {
     internal class Program
     {

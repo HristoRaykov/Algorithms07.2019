@@ -5,11 +5,11 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{E6D1311F-1FAF-4ACA-A57E-3D1619874530}</ProjectGuid>
+        <ProjectGuid>{8F666F48-97E0-4F0E-B10F-6A4EF9912567}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>P04ChainLightning</RootNamespace>
-        <AssemblyName>P04ChainLightning</AssemblyName>
+        <RootNamespace>P01AbaspaBasapa</RootNamespace>
+        <AssemblyName>P01AbaspaBasapa</AssemblyName>
         <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
     </PropertyGroup>
