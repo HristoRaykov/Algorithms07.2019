@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P01AbaspaBasapa/bin/Debug/P01AbaspaBasapa.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P01AbaspaBasapa/bin/Debug/P01AbaspaBasapa.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P01AbaspaBasapa/obj/Debug/P01AbaspaBasapa.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P01AbaspaBasapa/obj/Debug/P01AbaspaBasapa.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P01AbaspaBasapa/obj/Debug/P01AbaspaBasapa.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P01AbaspaBasapa/obj/Debug/P01AbaspaBasapa.pdb

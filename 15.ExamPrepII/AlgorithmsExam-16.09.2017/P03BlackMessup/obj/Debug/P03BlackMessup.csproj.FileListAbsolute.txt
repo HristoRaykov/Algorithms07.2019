@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P03BlackMessup/bin/Debug/P03BlackMessup.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P03BlackMessup/bin/Debug/P03BlackMessup.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P03BlackMessup/obj/Debug/P03BlackMessup.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P03BlackMessup/obj/Debug/P03BlackMessup.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P03BlackMessup/obj/Debug/P03BlackMessup.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P03BlackMessup/obj/Debug/P03BlackMessup.pdb

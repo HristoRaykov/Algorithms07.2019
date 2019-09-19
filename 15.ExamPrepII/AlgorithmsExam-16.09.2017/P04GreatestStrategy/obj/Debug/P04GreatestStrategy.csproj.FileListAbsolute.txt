@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P04GreatestStrategy/bin/Debug/P04GreatestStrategy.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P04GreatestStrategy/bin/Debug/P04GreatestStrategy.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P04GreatestStrategy/obj/Debug/P04GreatestStrategy.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P04GreatestStrategy/obj/Debug/P04GreatestStrategy.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P04GreatestStrategy/obj/Debug/P04GreatestStrategy.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P04GreatestStrategy/obj/Debug/P04GreatestStrategy.pdb

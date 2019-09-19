@@ -1,0 +1,6 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P02Balls/bin/Debug/P02Balls.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P02Balls/bin/Debug/P02Balls.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P02Balls/obj/Debug/P02Balls.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P02Balls/obj/Debug/P02Balls.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P02Balls/obj/Debug/P02Balls.exe
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/15.ExamPrepII/AlgorithmsExam-16.09.2017/P02Balls/obj/Debug/P02Balls.pdb
