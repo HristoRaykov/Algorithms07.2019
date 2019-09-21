@@ -1,0 +1,11 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P02WordCruncher/bin/Debug/netcoreapp2.2/P02WordCruncher.deps.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P02WordCruncher/bin/Debug/netcoreapp2.2/P02WordCruncher.runtimeconfig.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P02WordCruncher/bin/Debug/netcoreapp2.2/P02WordCruncher.runtimeconfig.dev.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P02WordCruncher/bin/Debug/netcoreapp2.2/P02WordCruncher.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P02WordCruncher/bin/Debug/netcoreapp2.2/P02WordCruncher.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P02WordCruncher/obj/Debug/netcoreapp2.2/P02WordCruncher.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P02WordCruncher/obj/Debug/netcoreapp2.2/P02WordCruncher.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P02WordCruncher/obj/Debug/netcoreapp2.2/P02WordCruncher.AssemblyInfoInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P02WordCruncher/obj/Debug/netcoreapp2.2/P02WordCruncher.AssemblyInfo.cs
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P02WordCruncher/obj/Debug/netcoreapp2.2/P02WordCruncher.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P02WordCruncher/obj/Debug/netcoreapp2.2/P02WordCruncher.pdb

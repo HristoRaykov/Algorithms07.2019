@@ -1,0 +1,11 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P03WordDifferences/bin/Debug/netcoreapp2.2/P03WordDifferences.deps.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P03WordDifferences/bin/Debug/netcoreapp2.2/P03WordDifferences.runtimeconfig.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P03WordDifferences/bin/Debug/netcoreapp2.2/P03WordDifferences.runtimeconfig.dev.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P03WordDifferences/bin/Debug/netcoreapp2.2/P03WordDifferences.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P03WordDifferences/bin/Debug/netcoreapp2.2/P03WordDifferences.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P03WordDifferences/obj/Debug/netcoreapp2.2/P03WordDifferences.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P03WordDifferences/obj/Debug/netcoreapp2.2/P03WordDifferences.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P03WordDifferences/obj/Debug/netcoreapp2.2/P03WordDifferences.AssemblyInfoInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P03WordDifferences/obj/Debug/netcoreapp2.2/P03WordDifferences.AssemblyInfo.cs
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P03WordDifferences/obj/Debug/netcoreapp2.2/P03WordDifferences.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P03WordDifferences/obj/Debug/netcoreapp2.2/P03WordDifferences.pdb

@@ -1,0 +1,11 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P01Cinema/bin/Debug/netcoreapp2.2/P01Cinema.deps.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P01Cinema/bin/Debug/netcoreapp2.2/P01Cinema.runtimeconfig.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P01Cinema/bin/Debug/netcoreapp2.2/P01Cinema.runtimeconfig.dev.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P01Cinema/bin/Debug/netcoreapp2.2/P01Cinema.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P01Cinema/bin/Debug/netcoreapp2.2/P01Cinema.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P01Cinema/obj/Debug/netcoreapp2.2/P01Cinema.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P01Cinema/obj/Debug/netcoreapp2.2/P01Cinema.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P01Cinema/obj/Debug/netcoreapp2.2/P01Cinema.AssemblyInfoInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P01Cinema/obj/Debug/netcoreapp2.2/P01Cinema.AssemblyInfo.cs
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P01Cinema/obj/Debug/netcoreapp2.2/P01Cinema.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P01Cinema/obj/Debug/netcoreapp2.2/P01Cinema.pdb

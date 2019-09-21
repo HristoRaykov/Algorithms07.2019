@@ -1,0 +1,11 @@
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P04RoadReconstruction/bin/Debug/netcoreapp2.2/P04RoadReconstruction.deps.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P04RoadReconstruction/bin/Debug/netcoreapp2.2/P04RoadReconstruction.runtimeconfig.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P04RoadReconstruction/bin/Debug/netcoreapp2.2/P04RoadReconstruction.runtimeconfig.dev.json
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P04RoadReconstruction/bin/Debug/netcoreapp2.2/P04RoadReconstruction.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P04RoadReconstruction/bin/Debug/netcoreapp2.2/P04RoadReconstruction.pdb
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P04RoadReconstruction/obj/Debug/netcoreapp2.2/P04RoadReconstruction.csprojAssemblyReference.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P04RoadReconstruction/obj/Debug/netcoreapp2.2/P04RoadReconstruction.csproj.CoreCompileInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P04RoadReconstruction/obj/Debug/netcoreapp2.2/P04RoadReconstruction.AssemblyInfoInputs.cache
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P04RoadReconstruction/obj/Debug/netcoreapp2.2/P04RoadReconstruction.AssemblyInfo.cs
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P04RoadReconstruction/obj/Debug/netcoreapp2.2/P04RoadReconstruction.dll
+/home/hristocr/SoftUni/Modules/Algorithms-07.2019/AlgrithmsExam-21.09.2019/FinalExam-21.09.2019/P04RoadReconstruction/obj/Debug/netcoreapp2.2/P04RoadReconstruction.pdb
